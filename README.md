@@ -13,3 +13,6 @@ A simple REST API built with Flask to manage tasks. This project demonstrates be
    ```bash
    git clone https://github.com/pjlau/task_api_demo.git
    cd task_api_demo
+2. Install the requirements:
+   ```bash
+   pip install -r requirements.txt
