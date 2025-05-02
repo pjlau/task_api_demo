@@ -1,4 +1,4 @@
-# Task API Demo
+# Task Manager API Demo
 
 A simple REST API built with Flask to manage tasks. This project demonstrates best practices for building, testing, and documenting a RESTful API.
 
