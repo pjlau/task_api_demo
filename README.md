@@ -12,4 +12,4 @@ A simple REST API built with Flask to manage tasks. This project demonstrates be
 1. Clone the repository:
    ```bash
    git clone https://github.com/pjlau/task_api_demo.git
-   cd task-api-demo
+   cd task_api_demo
