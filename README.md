@@ -19,6 +19,7 @@ A simple REST API built with Flask to manage tasks. This project demonstrates be
 3. Run the Web App:
    ```bash
    python run.py
-4. Run the unit tests:
+4. Access the webpage at `http://127.0.0.1:5000/`.
+5. Run the unit tests (Optional):
    ```bash
    pytest -v tests/test_api.py
