@@ -4,6 +4,10 @@ from app.models import tasks
 
 api = Blueprint('api', __name__)
 
+@api.route('/')
+def index():
+    return redirect(url_for('api.index'))  # Redirects to /api/
+
 @api.route('/tasks', methods=['GET'])
 def get_tasks():
     return jsonify(tasks)
