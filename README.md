@@ -16,3 +16,6 @@ A simple REST API built with Flask to manage tasks. This project demonstrates be
 2. Install the requirements:
    ```bash
    pip install -r requirements.txt
+3. Run the unit tests:
+   ```bash
+   pytest -v tests/test_api.py
